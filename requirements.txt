@@ -1,0 +1,4 @@
+streamlit
+rdkit-pypi
+pillow
+numpy==1.26.4
